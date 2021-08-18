@@ -16,7 +16,7 @@ Second layer is separated with respected to the topics of the presentations. The
 ### File Names
 Presentation files are better to be in `.pdf` format and it's also better to use `-`s in their name instead of ` `s.
 
-#### Exmaple
+#### Example
 Here is a showcase for uploading format:
 ```
 2021-08-17/
