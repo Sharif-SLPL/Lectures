@@ -1,4 +1,4 @@
 # Speakers:
-- Mr Majlesi: speaker recognition using x-vectors
-- Mr.akhavan: Introduction of NLP Groups
-- Ms. mohammadian: Speaker enhancement
+- [Mr Majlesi](https://github.com/Ali-Majlesi): speaker recognition using x-vectors
+- [Mr.akhavan](https://github.com/erfan226): Introduction of NLP Groups
+- [Ms. mohammadian](https://github.com/mohammadian1399): Speaker enhancement
